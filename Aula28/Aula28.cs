@@ -2,7 +2,7 @@ using System;
 
 public class Jogador// Se não colocar nenhum modificador a classe é publica automaticamente
 {
-    public int energia =100;//Se não especificar o acesso é public
+    public int energia =100;
     public bool vivo=true;
 }
 
